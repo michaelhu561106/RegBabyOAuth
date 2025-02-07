@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\RegBabyOAuth\\RegBabyOAuthLogin\\RegBabyOAuthLogin\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RegBabyOAuthLogin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RegBabyOAuthLogin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.RegBabyOAuthLogin.props",
+      "PackagePath": "build\\RegBabyOAuthLogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.RegBabyOAuthLogin.props",
+      "PackagePath": "buildMultiTargeting\\RegBabyOAuthLogin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.RegBabyOAuthLogin.props",
+      "PackagePath": "buildTransitive\\RegBabyOAuthLogin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegBabyOAuthLogin", "RegBabyOAuthLogin\RegBabyOAuthLogin.csproj", "{ADCE969A-27C8-4255-8F78-D4E49D19375E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegBabyOAuthLogin.Client", "RegBabyOAuthLogin.Client\RegBabyOAuthLogin.Client.csproj", "{B0AAF008-7CE4-48C6-87C9-E04C9FC7DB08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCE969A-27C8-4255-8F78-D4E49D19375E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCE969A-27C8-4255-8F78-D4E49D19375E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCE969A-27C8-4255-8F78-D4E49D19375E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCE969A-27C8-4255-8F78-D4E49D19375E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AAF008-7CE4-48C6-87C9-E04C9FC7DB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AAF008-7CE4-48C6-87C9-E04C9FC7DB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AAF008-7CE4-48C6-87C9-E04C9FC7DB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AAF008-7CE4-48C6-87C9-E04C9FC7DB08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC61EA25-654E-4518-A0A9-A84751A4B274}
+	EndGlobalSection
+EndGlobal

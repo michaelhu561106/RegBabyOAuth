@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\RegBabyOAuth\\RegBabyOAuthLogin\\RegBabyOAuthLogin.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\RegBabyOAuth\\RegBabyOAuthLogin\\RegBabyOAuthLogin.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\RegBabyOAuthLogin.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RegBabyOAuthLogin.Client.meod5ip2es.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RegBabyOAuthLogin.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.RegBabyOAuthLogin.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.RegBabyOAuthLogin.Client.props",
+      "PackagePath": "build\\RegBabyOAuthLogin.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.RegBabyOAuthLogin.Client.props",
+      "PackagePath": "buildMultiTargeting\\RegBabyOAuthLogin.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.RegBabyOAuthLogin.Client.props",
+      "PackagePath": "buildTransitive\\RegBabyOAuthLogin.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

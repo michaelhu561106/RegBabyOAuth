@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="RegBabyOAuthLogin.Client.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RegBabyOAuthLogin.Client.meod5ip2es.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-znm8KXI3TzQPHgiy\u002BPJo\u002Bjofo7r7LvX2BT/L8UW/XiQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"531"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022znm8KXI3TzQPHgiy\u002BPJo\u002Bjofo7r7LvX2BT/L8UW/XiQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 03:54:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="RegBabyOAuthLogin.Client.meod5ip2es.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\RegBabyOAuthLogin.Client.meod5ip2es.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"meod5ip2es"},{"Name":"integrity","Value":"sha256-znm8KXI3TzQPHgiy\u002BPJo\u002Bjofo7r7LvX2BT/L8UW/XiQ="},{"Name":"label","Value":"RegBabyOAuthLogin.Client.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"531"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022znm8KXI3TzQPHgiy\u002BPJo\u002Bjofo7r7LvX2BT/L8UW/XiQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 07 Feb 2025 03:54:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_framework/blazor.webassembly.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\_framework\blazor.webassembly.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BvIfWRbrna1rF\u002Bs8xknbrluJxgPx4vfKB0WJ74HdICo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"57392"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022\u002BvIfWRbrna1rF\u002Bs8xknbrluJxgPx4vfKB0WJ74HdICo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 06:26:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
